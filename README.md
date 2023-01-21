@@ -1,4 +1,10 @@
-### Hi there 👋
+### Colin Hwang
+
+** About Me **
+
+Something something something
+
+
 
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?
