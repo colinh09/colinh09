@@ -1,6 +1,6 @@
 # Hello, I'm Colin Hwang
 
-I'm a student and software/machine learning engineer based in the NYC area, currently pursuing both a B.Eng. and M.Eng. in electrical engineering at The Cooper Union. My primary interests lie in machine learning and database management.
+I'm a recent graduate with a B.Eng. and M.Eng. in comptuer engineering at The Cooper Union. My primary interests lie in full stack development and AI/ML. 
 
 ## Technologies & Tools
 
@@ -20,16 +20,9 @@ I'm a student and software/machine learning engineer based in the NYC area, curr
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
-## I'm currently learning 
-
-- Pytorch, Tensorflow, Computer Graphics
-
-<!-- ## 💼 I'm currently working on 
-
--  -->
-
 ## How to reach me:
 
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/colin-hwang-dev/)
-- Email: [colin.hwang@cooper.edu](mailto:colin.hwang@cooper.edu)
+- Email: [colin.hwang@cooper.edu](mailto:hcolin0910@gmail.com)
+
 
